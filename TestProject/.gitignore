@@ -1,0 +1,12 @@
+logs
+target
+/.idea/*
+!/.idea/runConfigurations
+!/.idea/misc.xml
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/bin
+*.iml
+/RUNNING_PID
