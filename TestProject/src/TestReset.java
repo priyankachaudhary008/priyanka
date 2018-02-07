@@ -6,7 +6,11 @@ public class TestReset {
 		System.out.println("Test reset");
 		System.out.println("Test reset new after stash");
 		System.out.println("Test reset new after  new commit");
+<<<<<<< HEAD
 	Show stash example
+=======
+		
+>>>>>>> After stash demp
 
 	}
 
