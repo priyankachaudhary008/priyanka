@@ -5,6 +5,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.println("For testing git commit ammend");
 		System.out.println("For testing reset");
+		Commit 1 in Testnew branch
 	}
 
 }
