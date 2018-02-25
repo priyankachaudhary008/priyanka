@@ -5,6 +5,6 @@ public class TestReset {
 		// TODO Auto-generated method stub
 		System.out.println("Test reset");
 		System.out.println("Test reset new after stash");
-		System.out.println("Test reset new after  new commit");	}
-
+		System.out.println("Test reset new after  new commit");
+		Corrected TestReset
 }
