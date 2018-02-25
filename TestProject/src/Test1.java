@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("For testing reset");
 		Commit 1 in Testnew branch
 		Commit 2 in Testnew branch
+		Commit 3 in Testnew Branch
 	}
 
 }
