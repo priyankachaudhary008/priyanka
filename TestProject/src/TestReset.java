@@ -7,4 +7,5 @@ public class TestReset {
 		System.out.println("Test reset new after stash");
 		System.out.println("Test reset new after  new commit");
 		Corrected TestReset
+		New commit from Tortoise in test branch
 }
